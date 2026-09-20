@@ -21,8 +21,8 @@ organizations (IDB, UNDP)**.
   banking, industry, services, technology and international organizations — coordinating
   multidisciplinary teams from strategy to execution
 - 🌎 **Regional PMO**: evaluation of a datacenter unification program across **14 LatAm countries
-  into a single facility**, incl. the data-protection compliance component for all 14 jurisdictions
-- 📈 **Business Impact**: +300% consulting capacity · +65% revenue volume · −60% cycle times ·
+  into a single facility**, incl. the data-protec on compliance component for all 14 jurisdictions
+- 📈 **Business Impact**: +300% Banking Consulting Unit capacity · +65% revenue volume · −60% cycle times ·
   −20% procurement costs · led the **ISO 9001 certification of a governmental Internal Audit Unit** (a first)
 - ⚡ **Now**: AI-driven process automation (n8n, Make, LLMs), Power BI analytics, Second Brain (PKM) systems
 - 🛡️ **Risk & Compliance**: operational, IT and credit risk models (Basel III, AML, scoring)
@@ -44,7 +44,7 @@ internacionais (BID, PNUD)**.
   multidisciplinares da estratégia à execução
 - 🌎 **PMO regional**: avaliação do programa de unificação de datacenters de **14 países da LatAm em uma
   única instalação**, incluindo o componente de compliance de tratamento de dados nas 14 jurisdições
-- 📈 **Impacto no negócio**: +300% de capacidade da consultoria · +65% de receita · −60% de tempo de ciclo ·
+- 📈 **Impacto no negócio**: +300% de capacidade da Unidade de Consultoria em Bancos· +65% de receita · −60% de tempo de ciclo ·
   −20% de custos de aquisição · liderou a **certificação ISO 9001 de uma Unidade de Auditoria Interna governamental** (inédita)
 - ⚡ **Agora**: automação de processos com IA (n8n, Make, LLMs), Power BI, sistemas Second Brain (PKM)
 - 🛡️ **Risco & Compliance**: modelos de risco operacional, de TI e de crédito (Basileia III, PLD, scoring)
@@ -67,7 +67,7 @@ organizaciones internacionales (BID, PNUD)**.
   de la estrategia a la ejecución
 - 🌎 **PMO regional**: evaluación del programa de unificación de datacenters de **14 países de Latinoamérica
   en una única instalación**, incluyendo el componente de cumplimiento normativo de tratamiento del dato en las 14 jurisdicciones
-- 📈 **Impacto de negocio**: +300% de capacidad de consultoría · +65% de volumen de ingresos · −60% en tiempos de ciclo ·
+- 📈 **Impacto de negocio**: +300% de capacidad en la Unidad de Consultoría en Bancos· +65% de volumen de ingresos · −60% en tiempos de ciclo ·
   −20% en costes de adquisición · lideré la **certificación ISO 9001 de una Unidad de Auditoría Interna gubernamental** (pionera)
 - ⚡ **Ahora**: automatización de procesos con IA (n8n, Make, LLMs), Power BI, sistemas Second Brain (PKM)
 - 🛡️ **Riesgo & Compliance**: modelos de riesgo operacional, de TI y de crédito (Basilea III, PBC/FT, scoring)
